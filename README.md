@@ -1,2 +1,1 @@
-# redesigned-lamp
-created for google git &amp; github course
+I am editing the README file. Adding some more details about the project description.
